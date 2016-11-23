@@ -9,13 +9,6 @@ body {
   line-height: 1.5;
   color: #606c71; }
 
-.container {
-  position:relative;
-  height:300px;
-  width:300px;
-  margin:0 auto;
-}
-
 .shake-slow {
   display: inline-block;
   transform-origin: center center; }
